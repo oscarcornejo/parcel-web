@@ -9,7 +9,7 @@
     "deploy": "gh-pages -d dist"
   },
   "keywords": [],
-  "author": "",
+  "author": "Oscar Cornejo",
   "license": "ISC",
   "devDependencies": {
     "gh-pages": "^5.0.0",
